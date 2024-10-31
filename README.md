@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**gallesSs/gallesSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
+I'm a **Junior Full-Stack Developer** and a current **GoIT student**, focused on mastering both front-end and back-end technologies. Passionate about creating functional, responsive, and visually appealing web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Back-End**: Node.js, Express (learning)
+- **Tools**: Git, npm, Visual Studio Code
+- **Databases**: MongoDB, Firebase (learning)
+- **Additional**: Responsive Design, Figma, Adobe
+
+### 🎯 Goals
+- Enhance my proficiency in full-stack development
+- Contribute to open-source projects
+- Collaborate on meaningful projects with other developers
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gallesSs_icons=true&theme=gotham" alt="gallesSs" />

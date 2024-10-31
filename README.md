@@ -19,3 +19,7 @@ I'm a **Junior Full-Stack Developer** and a current **GoIT student**, focused on
 ### 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gallesSs&show_icons=true&theme=gotham" alt="gallesSs" />
+
+### Codewars
+
+<p align="center"><img src="https://www.codewars.com/users/gallesSs/badges/large" alt="codewars" />

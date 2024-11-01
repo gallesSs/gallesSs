@@ -2,7 +2,7 @@
 ---
 
 ### 👋 About Me
-I'm a **Junior Full-Stack Developer** and a current **GoIT student**, focused on mastering both front-end and back-end technologies. Passionate about creating functional, responsive, and visually appealing web applications.
+I'm a **Junior FullStack Developer** and a current **GoIT student**, focused on mastering both front-end and back-end technologies. Passionate about creating functional, responsive, and visually appealing web applications.
 
 ### 🛠️ Skills & Technologies
 - **Front-End**: HTML, CSS, JavaScript, React
